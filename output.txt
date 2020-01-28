@@ -1,0 +1,204 @@
+"C:\Program Files\Java\jdk-11.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.4\lib\idea_rt.jar=20878:C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.4\bin" -Dfile.encoding=UTF-8 -classpath G:\PIDManager\out\production\PIDManager com.brooklyncollege.Main
+Process 387 successfully terminated
+Process 391 successfully terminated
+Process 370 successfully terminated
+Process 328 successfully terminated
+Process 365 successfully terminated
+Process 320 successfully terminated
+Process 313 successfully terminated
+Process 371 successfully terminated
+Process 335 successfully terminated
+Process 361 successfully terminated
+Process 339 successfully terminated
+Process 369 successfully terminated
+Process 341 successfully terminated
+Process 337 successfully terminated
+Process 378 successfully terminated
+Process 392 successfully terminated
+Process 327 successfully terminated
+Process 311 successfully terminated
+Process 373 successfully terminated
+Process 305 successfully terminated
+Process 357 successfully terminated
+Process 350 successfully terminated
+Process 354 successfully terminated
+Process 387 successfully terminated
+Process 319 successfully terminated
+Process 359 successfully terminated
+Process 329 successfully terminated
+Process 353 successfully terminated
+Process 380 successfully terminated
+Process 351 successfully terminated
+Process 314 successfully terminated
+Process 379 successfully terminated
+Process 348 successfully terminated
+Process 345 successfully terminated
+Process 397 successfully terminated
+Process 301 successfully terminated
+Process 381 successfully terminated
+Process 383 successfully terminated
+Process 334 successfully terminated
+Process 338 successfully terminated
+Process 388 successfully terminated
+Process 386 successfully terminated
+Process 315 successfully terminated
+Process 389 successfully terminated
+Process 322 successfully terminated
+Process 304 successfully terminated
+Process 355 successfully terminated
+Process 385 successfully terminated
+Process 326 successfully terminated
+Process 308 successfully terminated
+Process 310 successfully terminated
+Process 312 successfully terminated
+Process 375 successfully terminated
+Process 316 successfully terminated
+Process 394 successfully terminated
+Process 300 successfully terminated
+Process 368 successfully terminated
+Released: 300
+Released: 337
+Released: 310
+Released: 392
+Released: 341
+Released: 368
+Process 303 successfully terminated
+Released: 303
+Process 358 successfully terminated
+Released: 358
+Process 331 successfully terminated
+Released: 331
+Released: 316
+Released: 327
+Released: 312
+Process 377 successfully terminated
+Released: 377
+Process 321 successfully terminated
+Released: 321
+Process 356 successfully terminated
+Released: 356
+Released: 319
+Released: 387
+Released: 339
+Released: 353
+Released: 359
+Released: 314
+Released: 361
+Process 324 successfully terminated
+Process 374 successfully terminated
+Process 325 successfully terminated
+Released: 325
+Released: 397
+Process 362 successfully terminated
+Released: 362
+Process 317 successfully terminated
+Released: 317
+Released: 313
+Process 360 successfully terminated
+Released: 383
+Released: 381
+Released: 338
+Released: 301
+Released: 329
+Released: 388
+Released: 348
+Released: 374
+Released: 351
+Released: 315
+Released: 324
+Released: 379
+Released: 320
+Released: 326
+Released: 345
+Released: 380
+Released: 354
+Released: 350
+Process 307 successfully terminated
+Released: 307
+Released: 328
+Released: 305
+Released: 357
+Released: 391
+Released: 369
+Released: 373
+Released: 311
+Released: 378
+Released: 375
+Released: 394
+Process 346 successfully terminated
+Process 318 successfully terminated
+Released: 365
+Released: 318
+Released: 346
+Process 333 successfully terminated
+Released: 333
+Process 344 successfully terminated
+Released: 308
+Released: 355
+Released: 304
+Released: 385
+Released: 322
+Released: 389
+Released: 386
+Released: 370
+Released: 387
+Released: 335
+Released: 371
+Released: 334
+Released: 360
+Process 395 successfully terminated
+Released: 395
+Process 372 successfully terminated
+Released: 372
+Released: 344
+Process 332 successfully terminated
+Released: 332
+Process 323 successfully terminated
+Released: 323
+Process 382 successfully terminated
+Process 336 successfully terminated
+Released: 336
+Released: 382
+Process 376 successfully terminated
+Released: 376
+Process 396 successfully terminated
+Process 330 successfully terminated
+Released: 396
+Released: 330
+Process 352 successfully terminated
+Released: 352
+Process 343 successfully terminated
+Released: 343
+Process 302 successfully terminated
+Process 323 successfully terminated
+Released: 323
+Process 306 successfully terminated
+Released: 302
+Released: 306
+Process 309 successfully terminated
+Released: 309
+Process 363 successfully terminated
+Released: 363
+Process 384 successfully terminated
+Released: 384
+Process 340 successfully terminated
+Released: 340
+Process 367 successfully terminated
+Released: 367
+Process 366 successfully terminated
+Released: 366
+Process 349 successfully terminated
+Released: 349
+Process 364 successfully terminated
+Process 342 successfully terminated
+Released: 364
+Released: 342
+Process 347 successfully terminated
+Released: 347
+Process 393 successfully terminated
+Process 390 successfully terminated
+Released: 393
+Released: 390
+All threads in the pool have been released
+
+Process finished with exit code 0
